@@ -1,5 +1,5 @@
 {
-  "name": "03-node-basis",
+  "name": "multiplication-table-generator",
   "version": "0.0.1",
   "description": "This is a simple multiplication table generator.",
   "main": "index.js",
