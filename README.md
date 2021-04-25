@@ -9,7 +9,7 @@ npm packages installation:
 npm i
 ```
 
-Commands:
+Help command:
 ```bash
 node index --help               
 Options:
